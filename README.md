@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm Martina 👋
+# Hi, I'm Martina 👋
 
 ### Software Developer
 
@@ -13,9 +13,9 @@ Building web applications and exploring new technologies.
 
 ### About Me
 
-💻 Interested in full-stack web development.
-🌱 Exploring different technologies and building personal projects.
-🛠️ Enjoy working on practical applications and solving problems.
+- Interested in full-stack web development.
+- Exploring different technologies and building personal projects.
+- Enjoy working on practical applications and solving problems.
 
 ### Tech Stack
 
